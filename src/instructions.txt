@@ -1,0 +1,4 @@
+4. Create form text inputs for address, phone number email
+5. Create form label for About You with a text area box 
+6. In a separate file, create a useBuilder function to save personal info, and a handleChange function that updates useBuilder
+whenever a change is made in the form 
